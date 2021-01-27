@@ -2,32 +2,24 @@
   "title": "Creando la rama para el ejercicio",
   "description": "En este escenario creará la rama para realizar el proceso de integración y despliegue PartsUnlimited",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Ingresar al proyecto de capacitaciones en Azure DevOps",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Repositorio del proyecto: PartsUnlimited",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Crear feature",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Modificar el archivo: _Layout.cshtml ",
         "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
-      },
-      {
-        "title": "Step 6",
-        "text": "step6.md"
       }
     ],
     "intro": {
