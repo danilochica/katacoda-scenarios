@@ -6,13 +6,13 @@ Para ello debe de ingresar al archivo **PartsUnlimited-aspnet45/src/PartsUnlimit
 
 Después de localizar el archivo al lado derecho de su pantalla, presione el botón editar y ubíquese en la línea **40**. 
 
-![modificar-archivo](img/modificar-archivo.png)
+![modificar-archivo](./assets/modificar-archivo.png)
 
 En esa línea usted cambiará el nombre Andrés Orozco por el suyo. Para finalizar presione el botón commit
 
-![commit](img/commit.png)
+![commit](./assets/commit.png)
 
 Una vez presionado este botón, se cargará una ventana con la información para  completar el commit. Verifique nuevamente que este commit se esté realizando a la rama que creó anteriormente.
 
-![commit-final](img/commit-final.png)
+![commit-final](./assets/commit-final.png)
 
