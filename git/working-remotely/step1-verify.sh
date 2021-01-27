@@ -1,1 +1,0 @@
-ls | grep -q 'Aprendiendo_Git' && echo 'done'

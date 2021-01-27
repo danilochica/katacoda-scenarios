@@ -1,1 +1,0 @@
-En este escenario, hemos explorado cómo puede trabajar con ramas que son ideales para la creación de prototipos y experimentos, ya que pueden crearse y desecharse rápidamente.
