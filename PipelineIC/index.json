@@ -1,33 +1,25 @@
 {
   "title": "Pipeline de Integración Continua",
-  "description": "En este escenario se realizará un pipeline para el proceso de integración continua",
+  "description": "En este escenario se realizará un pipeline para el proceso de integración continua para nuestro proyecto",
   "difficulty": "Beginner",
   "time": "(30 minutes)",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Creación de pipeline de integración continua a partir de plantilla .NET",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Ajuste del nombre del pipeline acorde a la definición de nombramiento establecida",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Añadir el Build Name Format",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Habilitar la opción de integración continua",
         "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
-      },
-      {
-        "title": "Step 6",
-        "text": "step6.md"
       }
     ],
     "intro": {
