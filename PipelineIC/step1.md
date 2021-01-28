@@ -1,10 +1,10 @@
 Ubicados en el proyecto de CapacitacionesEPM en la organización de grupoEPM, dirigirse al módulo de Pipelines y navegar hacia la pestaña de Pipelines.
 
-Una vez allí, en la parte superior derecha, se encuentra el boton para crear una nueva definición de pipeline de build.
+Una vez allí, en la parte superior derecha, se encuentra el botón para crear una nueva definición de pipeline de build.
 
 ![opcion-crear-pipeline](img/opcion-creacion-pipeline.png)
 
-En esta sección seleccionamos la opción en la parte inferior de la pantalla "Use the classic editor to create a pipeline without YAML". De esta manera se llevaría a cabo la creación de la definición mediante el editor clásico.
+En esta sesión seleccionamos la opción en la parte inferior de la pantalla "Use the classic editor to create a pipeline without YAML". De esta manera se llevaría a cabo la creación de la definición mediante el editor clásico.
 
 ![seleccionar-classic-editor](img/seleccionar-classic-editor.png)
 

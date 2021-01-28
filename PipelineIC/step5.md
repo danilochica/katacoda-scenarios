@@ -1,4 +1,4 @@
-Una vez tengamos todos los cambios realizados, se procede a guardar la configuración del pipeline. A la hora de guardar este, nos topamos con dos opciones save & queue (Esta opción guarda la definición del pipeline y a su vez ejecuta la definicion), la otra opción es el save (Simplemente guarda los cambios realizados) el cual utlizaremos para este caso.
+Una vez tengamos todos los cambios realizados, se procede a guardar la configuración del pipeline. En el proceso de guardar la definición, nos topamos con dos opciones save & queue (Esta opción guarda la definición del pipeline y a su vez ejecuta el mismo), la otra opción es el save (Simplemente guarda los cambios realizados) el cual utilizaremos para este caso.
 
 Una vez estemos guardando la definición, se visualiza un recuadro en el cual se observa lo siguiente: 
 
