@@ -4,7 +4,7 @@ Ahora se requiere crear una feature del repositorio para realizar los cambios. P
 
 Para crear la rama, debe seguir el patrón **feature/SuNombre** tal como se ve en el siguiente ejemplo
 
-![crear-rama](./assets/dialogo-crear-rama.png)
+![crear-rama](./assets/dialogo-crear.png)
 
 Para finalizar este proceso, presione el botón **Create** e inmediatamente su repositorio se ubicará en la rama que acabó de crear. 
 
