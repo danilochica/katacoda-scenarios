@@ -1,8 +1,8 @@
 En esta sección, ajustaremos el formato del build, el cual se estaría viendo reflejado en cada una de las ejecuciones realizadas del pipeline.
 
-Para ajustar esta propiedad, digirirse a la pestaña de **Options**, una vez allí, se indetifica el valor denominado **"Build number format"**, en este se reemplaza por el siguiente valor: $(Build.SourceBranchName)_$(date:yyyyMMdd)$(rev:.r).
+Para ajustar esta propiedad, digirirse a la pestaña de **Options**, una vez allí, se indetifica el valor denominado **"Build number format"**, en este se reemplaza por el siguiente valor: **$(Build.SourceBranchName)_$(date:yyyyMMdd)$(rev:.r)**.
 
-![build-name-format](img/build-name-format.png)
+![build-name-format](./img/build-name-format.png)
 
 Este se compone de lo siguientes variables: 
 
