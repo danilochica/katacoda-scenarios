@@ -2,7 +2,7 @@ En esta sesión, ajustaremos el formato del build, el cual se estaría viendo re
 
 Para ajustar esta propiedad, dirigirse a la pestaña de **Options**, una vez allí, se identifica el valor denominado **"Build number format"**, en este se reemplaza por el siguiente valor: **$(Build.SourceBranchName)_$(date:yyyyMMdd)$(rev:.r)**.
 
-![build-name-format](./img/build-name-format.png)
+![build-name-format](./assets/build-name-format.png)
 
 Este se compone de lo siguientes variables: 
 

@@ -7,5 +7,5 @@ Una vez estemos guardando la definición, se visualiza un recuadro en el cual se
 2. Ingresar un comentario con los cambios que fueron realizados en la definición del pipeline, en este caso, ingresamos un comentario alusivo con la creación del pipeline para la determinada aplicación de PartsUnlimited.
 
 
-![guardar-definicion](./img/opcion-guardar-pipeline.png)
-![guardar-definicion](./img/guardar-definicion.png)
+![guardar-definicion](./assets/opcion-guardar-pipeline.png)
+![guardar-definicion](./assets/guardar-definicion.png)

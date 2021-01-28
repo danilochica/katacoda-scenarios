@@ -2,4 +2,4 @@ En esta sesión ajustaremos el nombre del pipeline acorde a la definición estab
 
 Teniendo en cuenta la definición establecida, el nombre para esta definición se plasmaría de la siguiente manera: **CapacitacionEPM-Aplicacion.<NombrePersona>-Produccion-IC**.
 
-![nombre-definicion](./img/nombre-definicion.png)
+![nombre-definicion](./assets/nombre-definicion.png)
