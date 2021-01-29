@@ -4,7 +4,7 @@ Una vez allí, identificamos el boton **New**, damos clic sobre este, y sobre la
 
 ![opcion-crear-pipeline-release](./assets/opcion-creacion-pipeline-release.png)
 
-En esta sección se carga todas las **plantillas** que provee Azure DevOps. En esta seleccionamos Empty Job en la parte superior.
+En esta sección se carga todas las **plantillas** que provee Azure DevOps. Para este caso seleccionamos **Empty Job** en la parte superior.
 
 ![opcion-empty-job](./assets/opcion-empty-job.png)
 
