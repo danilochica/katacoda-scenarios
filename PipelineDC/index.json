@@ -6,28 +6,36 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Creación de pipeline de release sin configuración de una base por parte de las plantillas",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Ajuste del nombre del pipeline acorde a la definición de nombramiento establecida",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Configuración del artefacto y habilitar disparador de ejecución automatizada",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Configuración de los Stages Acorde a la definición establecida en grupoEPM",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Configuración de la tarea a ejecutar en los stages",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Configuración del Release Name Format",
         "text": "step6.md"
+      },
+      {
+        "title": "Configuración de Pre-Aprobaciones y Retención",
+        "text": "step7.md"
+      },     
+      {
+        "title": "Guardar los cambios realizados",
+        "text": "step8.md"
       }
     ],
     "intro": {

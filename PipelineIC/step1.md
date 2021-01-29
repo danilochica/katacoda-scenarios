@@ -4,7 +4,7 @@ Una vez allí, en la parte superior derecha, se encuentra el botón para crear u
 
 ![opcion-crear-pipeline](./assets/opcion-creacion-pipeline.png)
 
-En esta sesión seleccionamos la opción en la parte inferior de la pantalla **"Use the classic editor to create a pipeline without YAML"**. De esta manera se llevaría a cabo la creación de la definición mediante el editor clásico.
+En esta sección seleccionamos la opción en la parte inferior de la pantalla **"Use the classic editor to create a pipeline without YAML"**. De esta manera se llevaría a cabo la creación de la definición mediante el editor clásico.
 
 ![seleccionar-classic-editor](./assets/seleccionar-classic-editor.png)
 
