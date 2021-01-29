@@ -2,7 +2,6 @@ Teniendo en cuenta la definicón establecida para las aprobaciones en los pipeli
 
 Ingresar en las **Pre-deployment conditions**, una vez allí habilitar la opción de **Pre-deployment approvals** y en la opción de Approvers añadir al grupo de [CapacitacionesEPM]\Analistas EPM.
 
-Adicionalmente, en la opción de Timeout establecer un valor de 10 días, este valor especifíca el tiempo máximo permitido para realizar la aprobación de lo contrario rechaza la ejecución automáticamente.
+Adicionalmente, en la opción de Timeout establecer un valor de 10 días, este valor especifica el tiempo máximo permitido para realizar la aprobación de lo contrario rechaza la ejecución automáticamente.
 
 ![configurar-aprobacion](./assets/configurar-aprobacion.png)
-
