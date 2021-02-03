@@ -6,16 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Creación del pull request hacia rama master-flow",
+        "title": "Ejecución de pipeline de integración continua",
         "text": "step1.md"
       },
       {
-        "title": "Visualización de ejecución automatizada de pipeline de integración continua",
-        "text": "step2.md"
-      },
-      {
         "title": "Visualización de ejecución automatizada de pipeline de entrega continua y actualización de la aplicación sobre ambiente de pruebas y producción",
-        "text": "step3.md"
+        "text": "step2.md"
       }
     ],
     "intro": {

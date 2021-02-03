@@ -1,7 +1,11 @@
-**Nota Importante:** Vamos a omitir la configuración de este paso, debido a que posteriormente cuando cada uno tenga los pipelines configurados con esta opción, a la hora de efectuar un pull request e integrar los cambios con la rama de **master-flow**, se dispararía la ejecución automática para cada uno, obteniendo un resultado no esperado, sin embargo es relevante plasmar y observar como es de simple el configurar esta opción en nuestra definición de pipeline de build.
+Una vez tengamos todos los cambios realizados, se procede a guardar la configuración del pipeline. En el proceso de guardar la definición, nos topamos con dos opciones save & queue (Esta opción guarda la definición del pipeline y a su vez ejecuta el mismo), la otra opción es el save (Simplemente guarda los cambios realizados) el cual utilizaremos para este caso.
 
-En esta sesión ajustaremos la opción de la integración continua, permitiendo de esta manera, la ejecución automática de la definición de pipeline de build una vez se realice la integración de cambios para un rama específica.
+Una vez estemos guardando la definición, se visualiza un recuadro en el cual se observa lo siguiente: 
 
-En este caso, configuraremos la integración continua con la rama de master-flow. Para llevar a cabo esta configuración, navegar a la pestaña de **Triggers** en la definición del pipeline, una vez allí, ubicados en la pestaña de continuos integration, habilitar la opción **"Enable continuous integration"**, una vez seleccionada, se despliegan otras configuraciones adicionales, y entre ellas el **"Branch filters"**, allí seleccionaremos la respectiva rama de master-flow en la opción de **"Branch specification"**.
+1. La carpeta donde se almacenará la definición del pipeline, para este caso, lo guardamos en la carpeta denominada general.
 
-![habilitar-IC](./assets/habilitar-IC.png)
+2. Ingresar un comentario con los cambios que fueron realizados en la definición del pipeline, en este caso, ingresamos un comentario alusivo con la creación del pipeline para la determinada aplicación de PartsUnlimited.
+
+
+![guardar-definicion](./assets/opcion-guardar-pipeline.png)
+![guardar-definicion](./assets/guardar-definicion.png)

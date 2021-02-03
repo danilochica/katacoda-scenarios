@@ -8,7 +8,7 @@ Una vez allí, añadiremos una nueva tarea al JOB, denominada **Azure App Servic
 
 ![añadir-tarea-webapp](./assets/añadir-tarea-webapp.png)
 
-Una vez seleccionada, procedemos con la configuración de la tarea, los cuales son los siguientes: 
+Una vez seleccionada, procedemos con la configuración de la tarea, los pasos son los siguientes: 
 
 - Azure Suscription: En este seleccionaremos el service connection llamado **"EPM-TEST-SC-PARTSUNLIMITED"**. Este nos proporciona una conexión de servicio externo, en este caso **Azure**.
 ![configuracion-services-connection](./assets/configuracion-services-connection.png)

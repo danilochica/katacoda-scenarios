@@ -1,4 +1,4 @@
-Ahora se requiere crear una feature del repositorio para realizar los cambios. Para realizar este proceso debe de seleccionar el menú desplegable de las ramas y seleccionar **+ New brach** tal como se puede visualizar en la siguiente imagen.
+Ahora se requiere crear una rama en la carpeta feature del repositorio para realizar los cambios. Para realizar este proceso debe de seleccionar el menú desplegable de las ramas y seleccionar **+ New brach** tal como se puede visualizar en la siguiente imagen.
 
 ![crear-rama](./assets/crear-rama.png)
 

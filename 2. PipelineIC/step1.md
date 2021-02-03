@@ -8,7 +8,7 @@ En esta sección seleccionamos la opción en la parte inferior de la pantalla **
 
 ![seleccionar-classic-editor](./assets/seleccionar-classic-editor.png)
 
-Seleccionar el repositorio de PartsUnlimited con la rama Master.
+Seleccionar el repositorio de PartsUnlimited con la rama feature/SuNombre.
 
 ![seleccionar-repositorio](./assets/seleccionar-repositorio.png)
 

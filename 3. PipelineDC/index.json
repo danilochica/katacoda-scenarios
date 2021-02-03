@@ -1,6 +1,6 @@
 {
   "title": "Pipeline de Despliegue",
-  "description": "En este escenario se realizarpa un pipeline para el proceso de despliegue de un artefacto",
+  "description": "En este escenario se realizará un pipeline para el proceso de despliegue de un artefacto",
   "difficulty": "Beginner",
   "time": "(30 minutes)",
   "details": {
