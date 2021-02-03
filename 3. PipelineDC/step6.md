@@ -6,6 +6,6 @@ Para ajustar esta propiedad, dirigirse a la pestaña de **Options**, una vez all
 
 Este se compone de lo siguientes variables: 
 
-$(Release.DefinitionName): Nombre de la definición del pipeline de release.
-$(date:yyyyMMdd): Fecha actual de la ejecución configurada en año-mes-día.
-$(rev:.r): El número de la versión ejecutada.
+**$(Release.DefinitionName):** Nombre de la definición del pipeline de release.
+**$(date:yyyyMMdd):** Fecha actual de la ejecución configurada en   año-mes-día.
+**$(rev:.r):** El número de la versión ejecutada.

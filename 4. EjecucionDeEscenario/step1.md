@@ -1,4 +1,4 @@
-Navegaremos hacia el pipeline creado anteriormente dando clic sobre él, una vez allí procedemos con la ejecución del mismo dando clic sobre el botón **Run pipeline** y posteriormente en el botón de **Run**;
+Navegaremos hacia el pipeline creado anteriormente dando clic sobre él, para identificar el pipeline deben ingresar a la pestaña de **All**, el cual estará en la carpeta llamada **General**, una vez allí procedemos con la ejecución del mismo dando clic sobre el botón **Run pipeline** y posteriormente en el botón de **Run**.
 
 ![ejecucion-pipeline-build](./assets/ejecucion-pipeline-build.png)
 
