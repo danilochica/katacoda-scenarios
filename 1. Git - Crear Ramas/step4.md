@@ -12,7 +12,12 @@ En esa línea usted cambiará el nombre Andrés Orozco por el suyo. Para finaliz
 
 ![commit](./assets/commit.png)
 
-Una vez presionado este botón, se cargará una ventana con la información para  completar el commit. Verifique nuevamente que este commit se esté realizando a la rama que creó anteriormente.
+Una vez presionado este botón, se cargará una ventana con la información para  completar el commit, los cuales son:
+ 
+1. **comment**: Ingresar un comentario con los cambios que fueron realizados en la rama, en este caso, ingresamos un comentario alusivo al cambio realizado en el título de la aplicación web.
+
+2. **Branch name**: Verificar que en este se encuentre seleccionada la rama a la que realizó los respectivos cambios feature/suNombre.
+
 
 ![commit-final](./assets/commit-final.png)
 
