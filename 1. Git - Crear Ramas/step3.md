@@ -2,7 +2,7 @@ Ahora se requiere crear una rama en la carpeta feature del repositorio para real
 
 ![crear-rama](./assets/crear-rama.png)
 
-Para crear la rama, debe seguir el patrón **feature/SuNombre** tal como se ve en el siguiente ejemplo
+Para crear la rama, debe seguir el patrón **feature/SuNombre**, en este se debe tener en cuenta que la rama debe ser creada a partir de la rama **master-flow** tal como se ve en el siguiente ejemplo
 
 ![crear-rama](./assets/dialogo-crear.png)
 
